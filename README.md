@@ -4,48 +4,51 @@
 
 I am a student at Southern Arkansas University, taking a bachelor's degree in Computer Science: Cyber Security and Privacy Option. I have an interest in data science and cybersecurity. I also do digital art projects like illustrations and comic strips on Instagram and Twitter.
 
-### Find me at:
+### Find me on:
 
-<a href="https://linkedin.com/in/a-justin-ong#gh-light-mode-only">
-    <img src="./img/linkedin-light.svg" alt="LinkedIn Light" width="30px" style="padding-right: 10px;">
-</a>
-<a href="https://linkedin.com/in/a-justin-ong#gh-dark-mode-only">
-    <img src="./img/linkedin-dark.svg" alt="LinkedIn Dark" width="30px" style="padding-right: 10px;">
-</a>
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/a-justin-ong#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/a-justin-ong#gh-dark-mode-only)
 &nbsp;&nbsp;
-<a href="https://instagram.com/idrawshizzle#gh-light-mode-only">
-    <img src="./img/instagram-light.svg" alt="Instagram Light" width="30px" style="padding-right: 10px;">
-</a>
-<a href="https://instagram.com/idrawshizzle#gh-dark-mode-only">
-    <img src="./img/instagram-dark.svg" alt="Instagram Dark" width="30px" style="padding-right: 10px;">
-</a>
+[![website](./img/gmail-light.svg)](https://mailto:justinongzhenze@gmail.com#gh-light-mode-only)
+[![website](./img/gmail-dark.svg)](https://mailto:justinongzhenze@gmail.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-<a href="https://twitter.com/idrawshizzle#gh-light-mode-only">
-    <img src="./img/twitter-light.svg" alt="Twitter Light" width="30px" style="padding-right: 10px;">
-</a>
-<a href="https://twitter.com/idrawshizzle#gh-dark-mode-only">
-    <img src="./img/twitter-dark.svg" alt="Twitter Dark" width="30px" style="padding-right: 10px;">
-</a>
+[![website](./img/instagram-light.svg)](https://instagram.com/idrawshizzle#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/idrawshizzle#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/idrawshizzle#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/idrawshizzle#gh-dark-mode-only)
 
-### Languages and Tools
+### Languages and Tools:
 
-<a href="gh-light-mode-only">
-    <img src="./img/java-light.svg" alt="Java Light" width="30px" style="padding-right:10px;">
-</a>
-<a href="gh-dark-mode-only">
-    <img src="./img/java-dark.svg" alt="Java Dark" width="30px" style="padding-right:10px;">
-</a>
-&nbsp;&nbsp;
-<a href="gh-light-mode-only">
-    <img src="./img/python-light.svg" alt="Python Light" width="30px" style="padding-right:10px;">
-</a>
-<a href="gh-dark-mode-only">
-    <img src="./img/python-dark.svg" alt="Python Dark" width="30px" style="padding-right:10px;">
-</a>
+[<img align="left" alt="Java" width="26px" src="./img/java-light.svg" style="padding-right:10px;" />][profilelight]
+[<img align="left" alt="Java" width="26px" src="./img/java-dark.svg" style="padding-right:10px;" />][profiledark]
+[<img align="left" alt="JavaScript" width="26px" src="./img/javascript-light.svg" style="padding-right:10px;" />][profilelight]
+[<img align="left" alt="JavaScript" width="26px" src="./img/javascript-dark.svg" style="padding-right:10px;" />][profiledark]
+[<img align="left" alt="Python" width="26px" src="./img/python-light.svg" style="padding-right:10px;" />][profilelight]
+[<img align="left" alt="Python" width="26px" src="./img/python-dark.svg" style="padding-right:10px;" />][profiledark]
+[<img align="left" alt="C++" width="26px" src="./img/cplusplus-light.svg" style="padding-right:10px;" />][profilelight]
+[<img align="left" alt="C++" width="26px" src="./img/cpluspluc-dark.svg" style="padding-right:10px;" />][profiledark]
+[<img align="left" alt="PHP" width="26px" src="./img/php-light.svg" style="padding-right:10px;" />][profilelight]
+[<img align="left" alt="PHP" width="26px" src="./img/php-dark.svg" style="padding-right:10px;" />][profiledark]
+[<img align="left" alt="GitHub" width="26px" src="./img/github-light.svg" style="padding-right:10px;" />][profilelight]
+[<img align="left" alt="GitHub" width="26px" src="./img/github-dark.svg" style="padding-right:10px;" />][profiledark]
+[<img align="left" alt="Eclipse" width="26px" src="./img/eclipseide-light.svg" style="padding-right:10px;" />][profilelight]
+[<img align="left" alt="Eclipse" width="26px" src="./img/eclipseide-dark.svg" style="padding-right:10px;" />][profiledark]
+[<img align="left" alt="mySQL" width="26px" src="./img/mysql-light.svg" style="padding-right:10px;" />][profilelight]
+[<img align="left" alt="mySQL" width="26px" src="./img/mysql-dark.svg" style="padding-right:10px;" />][profiledark]
+[<img align="left" alt="Jupyter" width="26px" src="./img/jupyter-light.svg" style="padding-right:10px;" />][profilelight]
+[<img align="left" alt="Jupyter" width="26px" src="./img/jupyter-dark.svg" style="padding-right:10px;" />][profiledark]
           
 <br />
 <br />
 
 ---
 
+## Course Projects:
+### <ins>2-3 Tree Data Structure</ins>
 
+### <ins>Grocery Store Inventory System</ins>
+
+[profile]: https://github.com/aJustinOng
+[profilelight]: https://github.com/aJustinOng#gh-light-mode-only
+[profiledark]: https://github.com/aJustinOng#gh-dark-mode-only
