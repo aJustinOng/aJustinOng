@@ -27,7 +27,7 @@ I am a student at Southern Arkansas University, taking a bachelor's degree in Co
 [<img align="left" alt="Python" width="26px" src="./img/python-light.svg" style="padding-right:10px;" />][profilelight]
 [<img align="left" alt="Python" width="26px" src="./img/python-dark.svg" style="padding-right:10px;" />][profiledark]
 [<img align="left" alt="C++" width="26px" src="./img/cplusplus-light.svg" style="padding-right:10px;" />][profilelight]
-[<img align="left" alt="C++" width="26px" src="./img/cpluspluc-dark.svg" style="padding-right:10px;" />][profiledark]
+[<img align="left" alt="C++" width="26px" src="./img/cplusplus-dark.svg" style="padding-right:10px;" />][profiledark]
 [<img align="left" alt="PHP" width="26px" src="./img/php-light.svg" style="padding-right:10px;" />][profilelight]
 [<img align="left" alt="PHP" width="26px" src="./img/php-dark.svg" style="padding-right:10px;" />][profiledark]
 [<img align="left" alt="GitHub" width="26px" src="./img/github-light.svg" style="padding-right:10px;" />][profilelight]
