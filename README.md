@@ -29,15 +29,19 @@ I am a student at Southern Arkansas University, taking a bachelor's degree in Co
 
 ### Languages and Tools
 
-<img src="./img/java-dark.svg" alt="Java" align="left" alt="Java" width="30px" style="padding-right:10px;">
-<img src="./img/javascript-dark.svg" alt="JavaScript" align="left" alt="Java" width="30px" style="padding-right:10px;">
-<img src="./img/python-dark.svg" alt="Python" align="left" alt="Java" width="30px" style="padding-right:10px;">
-<img src="./img/cplusplus-dark.svg" alt="C++" align="left" alt="Java" width="30px" style="padding-right:10px;">
-<img src="./img/php-dark.svg" alt="PHP" align="left" alt="Java" width="30px" style="padding-right:10px;">
-<img src="./img/github-dark.svg" alt="GitHub" align="left" alt="Java" width="30px" style="padding-right:10px;">
-<img src="./img/eclipseide-dark.svg" alt="EclipseIDE" align="left" alt="Java" width="30px" style="padding-right:10px;">
-<img src="./img/jupyter-dark.svg" alt="Jupyter" align="left" alt="Java" width="30px" style="padding-right:10px;">
-<img src="./img/mysql-dark.svg" alt="mySQL" align="left" alt="Java" width="30px" style="padding-right:10px;">
+<a href="gh-light-mode-only">
+    <img src="./img/java-light.svg" alt="Java Light" width="30px" style="padding-right:10px;">
+</a>
+<a href="gh-dark-mode-only">
+    <img src="./img/java-dark.svg" alt="Java Dark" width="30px" style="padding-right:10px;">
+</a>
+&nbsp;&nbsp;
+<a href="gh-light-mode-only">
+    <img src="./img/python-light.svg" alt="Python Light" width="30px" style="padding-right:10px;">
+</a>
+<a href="gh-dark-mode-only">
+    <img src="./img/python-dark.svg" alt="Python Dark" width="30px" style="padding-right:10px;">
+</a>
           
 <br />
 <br />
