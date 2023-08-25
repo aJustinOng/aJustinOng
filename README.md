@@ -1,16 +1,19 @@
 # Hey there, I'm Justin!
 
-**`Computer Scientist (Developer/Artist/Creator)`**
+**`Developer/Artist/Creator`**
 
-I am a student at Southern Arkansas University, taking a bachelor's degree in Computer Science: Cyber Security and Privacy Option. I have an interest in data science and cybersecurity. I also do digital art projects like illustrations and comic strips.
+I am a student at Southern Arkansas University, taking a bachelor's degree in Computer Science: Cyber Security and Privacy Option. I have an interest in data science and cybersecurity. I also do digital art projects like illustrations and comic strips on Instagram and Twitter.
 
 ### Find me at:
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/a-justin-ong#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/a-justin-ong#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/aJustinOng#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/aJustinOng#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/idrawshizzle#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/idrawshizzle#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/idrawshizzle#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/idrawshizzle#gh-dark-mode-only)
 
 ### Languages and Tools
 
@@ -31,3 +34,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original
 <br />
 
 ---
+
+
