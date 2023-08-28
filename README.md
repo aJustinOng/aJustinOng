@@ -45,10 +45,16 @@ I am a student at Southern Arkansas University, taking a bachelor's degree in Co
 ---
 
 ## Course Projects:
-### <ins>2-3 Tree Data Structure</ins>
+### [2-3 Tree Data Structure][23Tree] 
+This was a group project for a Data Structures & Algorithms class in my Sophomore year of university. It is a basic exploration of the 2-3 Trees data structure, a complex version of binary trees. Looking back, we could have structured the code better and added a proper user interface. The output of the current code is limited to the first two levels of the created 2-3 tree.
 
-### <ins>Grocery Store Inventory System</ins>
+<img align="left" alt="Jupyter" width="1000px" src="./img/23Trees.PNG" style="padding-right:10px;" />
+
+### [Grocery Store Inventory System][GroceryStore]
 
 [profile]: https://github.com/aJustinOng
 [profilelight]: https://github.com/aJustinOng#gh-light-mode-only
 [profiledark]: https://github.com/aJustinOng#gh-dark-mode-only
+
+[23Tree]: https://github.com/aJustinOng/23Trees
+[GroceryStore]: https://github.com/aJustinOng/GroceryStore
