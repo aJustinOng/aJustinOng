@@ -21,23 +21,21 @@ I am a student at Southern Arkansas University, taking a bachelor's degree in Co
 ### Languages and Tools:
 
 [<img align="left" alt="Java" width="26px" src="./img/java-light.svg" style="padding-right:10px;" />][profilelight]
-[<img align="left" alt="Java" width="26px" src="./img/java-dark.svg" style="padding-right:10px;" />][profiledark]
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />][profiledark]
 [<img align="left" alt="JavaScript" width="26px" src="./img/javascript-light.svg" style="padding-right:10px;" />][profilelight]
-[<img align="left" alt="JavaScript" width="26px" src="./img/javascript-dark.svg" style="padding-right:10px;" />][profiledark]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="padding-right:10px;" />][profiledark]
 [<img align="left" alt="Python" width="26px" src="./img/python-light.svg" style="padding-right:10px;" />][profilelight]
-[<img align="left" alt="Python" width="26px" src="./img/python-dark.svg" style="padding-right:10px;" />][profiledark]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="padding-right:10px;" />][profiledark]
 [<img align="left" alt="C++" width="26px" src="./img/cplusplus-light.svg" style="padding-right:10px;" />][profilelight]
-[<img align="left" alt="C++" width="26px" src="./img/cplusplus-dark.svg" style="padding-right:10px;" />][profiledark]
+[<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" style="padding-right:10px;" />][profiledark]
 [<img align="left" alt="PHP" width="26px" src="./img/php-light.svg" style="padding-right:10px;" />][profilelight]
-[<img align="left" alt="PHP" width="26px" src="./img/php-dark.svg" style="padding-right:10px;" />][profiledark]
+[<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />][profiledark]
 [<img align="left" alt="GitHub" width="26px" src="./img/github-light.svg" style="padding-right:10px;" />][profilelight]
-[<img align="left" alt="GitHub" width="26px" src="./img/github-dark.svg" style="padding-right:10px;" />][profiledark]
-[<img align="left" alt="Eclipse" width="26px" src="./img/eclipseide-light.svg" style="padding-right:10px;" />][profilelight]
-[<img align="left" alt="Eclipse" width="26px" src="./img/eclipseide-dark.svg" style="padding-right:10px;" />][profiledark]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][profiledark]
 [<img align="left" alt="mySQL" width="26px" src="./img/mysql-light.svg" style="padding-right:10px;" />][profilelight]
-[<img align="left" alt="mySQL" width="26px" src="./img/mysql-dark.svg" style="padding-right:10px;" />][profiledark]
+[<img align="left" alt="mySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;" />][profiledark]
 [<img align="left" alt="Jupyter" width="26px" src="./img/jupyter-light.svg" style="padding-right:10px;" />][profilelight]
-[<img align="left" alt="Jupyter" width="26px" src="./img/jupyter-dark.svg" style="padding-right:10px;" />][profiledark]
+[<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />][profiledark]
           
 <br />
 <br />
@@ -45,12 +43,21 @@ I am a student at Southern Arkansas University, taking a bachelor's degree in Co
 ---
 
 ## Course Projects:
+
 ### [2-3 Tree Data Structure][23Tree] 
 This was a group project for a Data Structures & Algorithms class in my Sophomore year of university. It is a basic exploration of the 2-3 Trees data structure, a complex version of binary trees. Looking back, we could have structured the code better and added a proper user interface. The output of the current code is limited to the first two levels of the created 2-3 tree.
 
-<img align="left" alt="Jupyter" width="1000px" src="./img/23Trees.PNG" style="padding-right:10px;" />
+[<img align="left" alt="23TreesLight" width="1000px" src="./img/23Treeslight.PNG" style="padding-right:10px;" />][profilelight]
+[<img align="left" alt="23TreesDark" width="1000px" src="./img/23Treesdark.PNG" style="padding-right:10px;" />][profiledark]
 
 ### [Grocery Store Inventory System][GroceryStore]
+
+[<img align="left" alt="GroceryStoreLight" width="1000px" src="./img/GroceryStoreERlight.PNG" style="padding-right:10px;" />][profilelight]
+[<img align="left" alt="GroceryStoreDark" width="1000px" src="./img/GroceryStoreERdark.PNG" style="padding-right:10px;" />][profiledark]
+
+This is my final group project for a Data Modeling & Application Project class. We designed and created a simple database for an imaginary grocery store using MySQL Workbench. We then made a local webpage using HTML that allowed a user to retrieve and update data. The database contains sample employee, customer, product, supplier, and transaction data. We then made queries and updates on the database to test its functionality.
+
+<img align="left" alt="Jupyter" width="500px" src="./img/GroceryStoreQuery.PNG" style="padding-right:10px;" />
 
 [profile]: https://github.com/aJustinOng
 [profilelight]: https://github.com/aJustinOng#gh-light-mode-only
