@@ -2,7 +2,9 @@
 
 **`Developer/Artist/Creator`**
 
-I am a student at Southern Arkansas University, taking a bachelor's degree in Computer Science: Cyber Security and Privacy Option. I have an interest in data science and cybersecurity. I also do digital art projects like illustrations and comic strips on Instagram and Twitter.
+I have an interest in data science and cybersecurity. My first introduction to coding was doing simple JavaScript on Khan Academy when I was ten. Over the years, I took a few online coding and data science courses using languages like Java, Python, and C++.
+
+Currently I am a student at Southern Arkansas University, taking a bachelor's degree in Computer Science: Cyber Security and Privacy Option. I am also helping a professor with research, focusing on image processing. In my spare time I like to do digital art projects like illustrations and comic strips, and gathered a small audience on Instagram and Twitter.
 
 ### Find me on:
 
@@ -49,6 +51,8 @@ This was a group project for a Data Structures & Algorithms class in my Sophomor
 
 [<img align="left" alt="23TreesLight" width="1000px" src="./img/23Treeslight.PNG" style="padding-right:10px;" />][profilelight]
 [<img align="left" alt="23TreesDark" width="1000px" src="./img/23Treesdark.PNG" style="padding-right:10px;" />][profiledark]
+
+Regular binary trees tend to get "unbalanced" after data is inserted or removed. This means that all data are pushed to one side of the binary tree instead of being equally distributed, which increases the time complexity of data retrieval and queries. 2-3 trees do not have this issue because of the way they store data. Nodes that hold data within 2-3 trees can hold up to two values, and they split and merge in a way that maintains a constant balance in the tree. Thus, 2-3 trees are a more effective form of binary trees in databases that constantly update, as the stream of inputs and outputs will not cause an imbalance in the tree.
 
 ### [Grocery Store Inventory System][GroceryStore]
 
