@@ -2,9 +2,9 @@
 
 **`Developer/Artist/Creator`**
 
-I have an interest in data science and cybersecurity. My first introduction to coding was doing simple JavaScript on Khan Academy when I was ten. Over the years, I took a few online coding and data science courses using languages like Java, Python, and C++.
+I have an interest in data science and cybersecurity. My first introduction to coding was doing simple JavaScript on Khan Academy when I was ten. Over the years, I took a few online coding and data science courses using languages like Java, Python, and C++. I have done peer tutoring both in high school and in college, tutoring mostly in math and computer science.
 
-Currently I am a student at Southern Arkansas University, taking a bachelor's degree in Computer Science: Cyber Security and Privacy Option. I am also helping a professor with research, focusing on image processing. In my spare time I like to do digital art projects like illustrations and comic strips, and gathered a small audience on Instagram and Twitter.
+Currently I am a student at Southern Arkansas University, taking a bachelor's degree in Computer Science: Cyber Security and Privacy Option. I am also helping my professor with research, with a focus on image processing. In my spare time, I like to do digital art projects like illustrations and comic strips, and gathered a small audience on Instagram and Twitter. I am very passionate about getting things done, always learning new skills and polishing old ones.
 
 ### Find me on:
 
