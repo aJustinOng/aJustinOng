@@ -4,15 +4,15 @@
 
 I have an interest in data science and cybersecurity. My first introduction to coding was doing simple JavaScript on Khan Academy when I was ten. Over the years, I took a few online coding and data science courses using languages like Java, Python, and C++. I have done peer tutoring both in high school and in college, tutoring mostly in math and computer science.
 
-Currently I am a student at Southern Arkansas University, taking a bachelor's degree in Computer Science: Cyber Security and Privacy Option. I am also helping my professor with research, with a focus on image processing. In my spare time, I like to do digital art projects like illustrations and comic strips, and gathered a small audience on Instagram and Twitter. I am very passionate about getting things done, always learning new skills and polishing old ones.
+I am currently a Junior at Southern Arkansas University, taking a bachelor's degree in Computer Science: Cyber Security and Privacy Option. I have completed [projects](#course-projects) in classes such as **Data Structures & Algorithms** and **Data Modeling & Application**, and in my current semester, I am attending cybersecurity classes such as **Cyber Defense & Privacy** and **Privacy Security & Ethics**. I am also helping my professor with research, with a focus on image processing. In my spare time, I like to do digital art projects like illustrations and comic strips, gathering an audience on Instagram and Twitter. I am passionate about getting things done, always learning new skills and polishing old ones.
 
 ### Find me on:
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/a-justin-ong#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/a-justin-ong#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/gmail-light.svg)](https://mailto:justinongzhenze@gmail.com#gh-light-mode-only)
-[![website](./img/gmail-dark.svg)](https://mailto:justinongzhenze@gmail.com#gh-dark-mode-only)
+[![website](./img/gmail-light.svg)](mailto:justinongzhenze@gmail#gh-light-mode-only)
+[![website](./img/gmail-dark.svg)](mailto:justinongzhenze@gmail#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/idrawshizzle#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/idrawshizzle#gh-dark-mode-only)
@@ -44,7 +44,7 @@ Currently I am a student at Southern Arkansas University, taking a bachelor's de
 
 ---
 
-## Course Projects:
+## Course Projects
 
 ### [2-3 Tree Data Structure][23Tree] 
 This was a group project for a Data Structures & Algorithms class in my Sophomore year of university. It is a basic exploration of the 2-3 Trees data structure, a complex version of binary trees. Looking back, we could have structured the code better and added a proper user interface. The output of the current code is limited to the first two levels of the created 2-3 tree.
