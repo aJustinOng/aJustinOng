@@ -11,9 +11,6 @@ I am currently a Junior at Southern Arkansas University, taking a bachelor's deg
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/a-justin-ong#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/a-justin-ong#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/gmail-light.svg)](mailto:justinongzhenze@gmail#gh-light-mode-only)
-[![website](./img/gmail-dark.svg)](mailto:justinongzhenze@gmail#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/idrawshizzle#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/idrawshizzle#gh-dark-mode-only)
 &nbsp;&nbsp;
