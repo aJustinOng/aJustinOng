@@ -4,7 +4,7 @@
 
 I have an interest in data science and cybersecurity. My first introduction to coding was doing simple JavaScript on Khan Academy when I was ten. Over the years, I took a few online coding and data science courses using languages like Java, Python, and C++. I have done peer tutoring both in high school and in college, tutoring mostly in math and computer science.
 
-I am currently a Junior at Southern Arkansas University, taking a bachelor's degree in Computer Science: Cyber Security and Privacy Option. I have completed [projects](#course-projects) in classes such as **Data Structures & Algorithms** and **Data Modeling & Application**, and in my current semester, I am attending cybersecurity classes such as **Cyber Defense & Privacy** and **Privacy Security & Ethics**. I am also helping my professor with research, with a focus on image processing. I am passionate about getting things done, always learning new skills and polishing old ones.
+I am currently a Senior at Southern Arkansas University, taking a bachelor's degree in Computer Science: Cyber Security and Privacy Option. I have completed [projects](#course-projects) in classes such as **Data Structures & Algorithms** and **Data Modeling & Application**, and in my current semester, I am attending cybersecurity classes such as **Cyber Defense & Privacy** and **Privacy Security & Ethics**. I am also helping my professor with research, with a focus on image processing. I am passionate about getting things done, always learning new skills and polishing old ones.
 
 ### Find me on:
 
