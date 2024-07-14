@@ -43,9 +43,9 @@ I am currently a Senior at Southern Arkansas University, taking a bachelor's deg
 
 ## Course Projects
 
-### [KAMI (Kitchen Assistant and Meal Innovator) - AI Recipe Generator][KAMI]
+### KAMI (Kitchen Assistant and Meal Innovator) - AI Recipe Generator
 
-This capstone project's main focus was to make an AI-based recipe generator that functions by feeding it available ingredients and establishing limits or constraints to the dish. We integrated this into a website that 'invents' new recipes by considering the user's dietary needs and choice of cuisine. The recipe's ingredients, instructions, and AI-generated image is displayed to the user. The project implemented OpenAI's GPT-4 and DALLE-3 APIs into a Django Framework that is connected to a local MySQL database. 
+This capstone project's main focus was to make an AI-based recipe generator that functions by feeding it with available ingredients and establishing limits or constraints to the dish. We integrated this into a website that 'invents' new recipes by considering the user's dietary needs and choice of cuisine. The recipe's ingredients, instructions, and AI-generated image are displayed to the user. The project implemented OpenAI's GPT-4 and DALLE-3 APIs into a Django Framework that is connected to a local MySQL database. 
 
 ![KAMI Website](./img/KAMI.PNG)
 
@@ -57,13 +57,6 @@ This was a group project for a Data Structures & Algorithms class in my Sophomor
 
 Regular binary trees tend to get "unbalanced" after data is inserted or removed. This means that all data are pushed to one side of the binary tree instead of being equally distributed, which increases the time complexity of data retrieval and queries. 2-3 trees do not have this issue because of the way they store data. Nodes that hold data within 2-3 trees can hold up to two values, and they split and merge in a way that maintains a constant balance in the tree. Thus, 2-3 trees are a more effective form of binary trees in databases that constantly update, as the stream of inputs and outputs will not cause an imbalance in the tree.
 
-### [Grocery Store Inventory System][GroceryStore]
-
-[<img align="left" alt="GroceryStoreLight" width="1000px" src="./img/GroceryStoreERlight.PNG" style="padding-right:10px;" />][profilelight]
-[<img align="left" alt="GroceryStoreDark" width="1000px" src="./img/GroceryStoreERdark.PNG" style="padding-right:10px;" />][profiledark]
-
-This was my final group project for a Data Modeling & Application Project class. We designed and created a simple database for an imaginary grocery store using MySQL Workbench. We then made a local webpage using HTML that allowed a user to retrieve and update data. The database contains sample employee, customer, product, supplier, and transaction data. We then made queries and updates on the database to test its functionality.
-
 <img align="left" alt="Jupyter" width="500px" src="./img/GroceryStoreQuery.PNG" style="padding-right:10px;" />
 
 [profile]: https://github.com/aJustinOng
@@ -71,4 +64,3 @@ This was my final group project for a Data Modeling & Application Project class.
 [profiledark]: https://github.com/aJustinOng#gh-dark-mode-only
 
 [23Tree]: https://github.com/aJustinOng/23Trees
-[GroceryStore]: https://github.com/aJustinOng/GroceryStore
