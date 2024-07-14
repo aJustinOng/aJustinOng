@@ -47,7 +47,7 @@ I am currently a Senior at Southern Arkansas University, taking a bachelor's deg
 
 This capstone project's main focus was to make an AI-based recipe generator that functions by feeding it available ingredients and establishing limits or constraints to the dish. We integrated this into a website that 'invents' new recipes by considering the user's dietary needs and choice of cuisine. The recipe's ingredients, instructions, and AI-generated image is displayed to the user. The project implemented OpenAI's GPT-4 and DALLE-3 APIs into a Django Framework that is connected to a local MySQL database. 
 
-![KAMI Website](./img/KAMIWeb.PNG)
+![KAMI Website](./img/KAMI.PNG)
 
 ### [2-3 Tree Data Structure][23Tree] 
 This was a group project for a Data Structures & Algorithms class in my Sophomore year of university. It is a basic exploration of the 2-3 Trees data structure, a complex version of binary trees. Looking back, we could have structured the code better and added a proper user interface. The output of the current code is limited to the first two levels of the created 2-3 tree.
