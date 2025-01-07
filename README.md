@@ -2,52 +2,41 @@
 
 **`Developer/Artist/Creator`**
 
-I have an interest in data science and cybersecurity. My first introduction to coding was doing simple JavaScript on Khan Academy when I was ten. Over the years, I took a few online coding and data science courses using languages like Java, Python, and C++. I have done peer tutoring both in high school and in college, tutoring mostly in math and computer science.
-
-I am currently a Senior at Southern Arkansas University, taking a bachelor's degree in Computer Science: Cyber Security and Privacy Option. I have completed [projects](#course-projects) in classes such as **Data Structures & Algorithms** and **Data Modeling & Application**, and in my current semester, I am attending cybersecurity classes such as **Cyber Defense & Privacy** and **Privacy Security & Ethics**. I am also helping my professor with research, with a focus on image processing. I am passionate about getting things done, always learning new skills and polishing old ones.
+I am an aspiring data analyst with entry-level professional experience in application development. I mainly work with Python, Java, and C++ in various personal and academic projects. I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
 
 ### Find me on:
 
+[![website](./img/globe-light.svg)](https://ajustinong.github.io#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://ajustinong.github.io#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/a-justin-ong#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/a-justin-ong#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/idrawshizzle#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/idrawshizzle#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/idrawshizzle#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/idrawshizzle#gh-dark-mode-only)
 
-### Languages and Tools:
-
-[<img align="left" alt="Java" width="26px" src="./img/java-light.svg" style="padding-right:10px;" />][profilelight]
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />][profiledark]
-[<img align="left" alt="JavaScript" width="26px" src="./img/javascript-light.svg" style="padding-right:10px;" />][profilelight]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="padding-right:10px;" />][profiledark]
-[<img align="left" alt="Python" width="26px" src="./img/python-light.svg" style="padding-right:10px;" />][profilelight]
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="padding-right:10px;" />][profiledark]
-[<img align="left" alt="C++" width="26px" src="./img/cplusplus-light.svg" style="padding-right:10px;" />][profilelight]
-[<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" style="padding-right:10px;" />][profiledark]
-[<img align="left" alt="PHP" width="26px" src="./img/php-light.svg" style="padding-right:10px;" />][profilelight]
-[<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />][profiledark]
-[<img align="left" alt="GitHub" width="26px" src="./img/github-light.svg" style="padding-right:10px;" />][profilelight]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][profiledark]
-[<img align="left" alt="mySQL" width="26px" src="./img/mysql-light.svg" style="padding-right:10px;" />][profilelight]
-[<img align="left" alt="mySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;" />][profiledark]
-[<img align="left" alt="Jupyter" width="26px" src="./img/jupyter-light.svg" style="padding-right:10px;" />][profilelight]
-[<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />][profiledark]
-          
-<br />
-<br />
+### Core skills:
+Python | Java | SQL | Data Visualization
 
 ---
 
-## Course Projects
+## Projects
 
 ### KAMI (Kitchen Assistant and Meal Innovator) - AI Recipe Generator
 
-This capstone project's main focus was to make an AI-based recipe generator that functions by feeding it with available ingredients and establishing limits or constraints to the dish. We integrated this into a website that 'invents' new recipes by considering the user's dietary needs and choice of cuisine. The recipe's ingredients, instructions, and AI-generated image are displayed to the user. The project implemented OpenAI's GPT-4 and DALLE-3 APIs into a Django Framework that is connected to a local MySQL database. 
+This capstone project's main focus was to make an AI-based recipe generator that functions by feeding it with available ingredients and establishing limits or constraints to the dish. We integrated this into a website that 'invents' new recipes by considering the user's dietary needs and choice of cuisine.
+
+The recipe's ingredients, instructions, and AI-generated image are displayed to the user. The project utilized OpenAI's GPT-4 and DALLE-3 APIs into a Django Framework that is connected to a local MySQL database.
 
 ![KAMI Website](./img/KAMI.PNG)
+
+### LLM SPAM or HAM Classification
+
+As an Honors project for my Cyber Forensics class, I decided to test the ability of different LLMs (Large Language Models) to classify spam emails in a zero-shot environment. Five models—Llama2, Mistral, Synthia, Zephyr, and CausalLM—were given the same dataset of spam and ham emails and instructed to classify them accordingly.
+
+I installed and hosted the models on LM Studio and used the OpenAI API to connect them to a Python .ipynb notebook.
+
+![Email Classification](./img/EmailClassification.PNG)
 
 ### [2-3 Tree Data Structure][23Tree] 
 This was a group project for a Data Structures & Algorithms class in my Sophomore year of university. It is a basic exploration of the 2-3 Trees data structure, a complex version of binary trees. Looking back, we could have structured the code better and added a proper user interface. The output of the current code is limited to the first two levels of the created 2-3 tree.
