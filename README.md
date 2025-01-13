@@ -2,7 +2,7 @@
 
 **`Developer/Artist/Creator`**
 
-I am an aspiring data analyst with entry-level professional experience in application development. I mainly work with Python, Java, and C++ in various personal and academic projects. I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
+I am an aspiring data scientist/analyst with entry-level professional experience in application development. I mainly work with Python, Java, and C++ in various personal and academic projects. I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
 
 ### Find me on:
 
