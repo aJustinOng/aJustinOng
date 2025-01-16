@@ -1,6 +1,6 @@
 # Hey there, I'm Justin!
 
-**`Developer/Artist/Creator`**
+**`Data Engineering/Data Modeling/Data Analysis`**
 
 I am an aspiring data scientist/analyst with entry-level professional experience in application development. I mainly work with Python, Java, and C++ in various personal and academic projects. I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
 
@@ -16,7 +16,7 @@ I am an aspiring data scientist/analyst with entry-level professional experience
 [![website](./img/instagram-dark.svg)](https://instagram.com/idrawshizzle#gh-dark-mode-only)
 
 ### Core skills:
-Python | Java | SQL | Data Visualization
+Python | Java | SQL | Data
 
 ---
 
