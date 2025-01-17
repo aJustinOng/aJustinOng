@@ -2,7 +2,7 @@
 
 **`Data Engineering/Data Modeling/Data Analysis`**
 
-I am an aspiring data scientist/analyst with entry-level professional experience in application development. I mainly work with Python, Java, and C++ in various personal and academic projects. I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
+I am an aspiring data engineer/analyst with entry-level professional experience in application development. I mainly work with Python, Java, and SQL in various personal and academic projects. I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
 
 ### Find me on:
 
@@ -49,17 +49,15 @@ I used basic DAX to return specific data aggregates that could be used in visual
 
 ### 2. KAMI (Kitchen Assistant and Meal Innovator) - AI Recipe Generator
 
-<a href="assets/pdfs/KAMI Report.pdf" target="_blank">Report</a> | <a href="assets/pdfs/KAMI Report.pdf" target="_blank">Presentation Slides</a>
-
 **Skills:**
-`Long-term Project Management | Python | SQL | Data Modeling | AI Prompt Modeling | HTML | CSS | JavaScript`
+`Project Management | Python | SQL | Data Modeling | AI Prompt Modeling | HTML | CSS | JavaScript`
 
 **Tools:**
 `Django | XAMPP MySQL | GPT-4 | DALLE-3`
 
 **Overview:**  
 
-This senior capstone project was carried out across two semesters (roughly 9 months) along with two of my buddies. We met twice a week physically to discuss our individual and collaborative progress with our senior project advisor. Other forms of communication and collaboration was done through Discord, Google Docs, and Google Slides.
+This senior capstone project was carried out across two semesters (roughly 9 months) with two of my buddies. We met twice a week physically to discuss our individual and collaborative progress with our senior project advisor. Other forms of communication and collaboration was done through Discord, Google Docs, and Google Slides.
 
 The main focus of the project was to make an AI-based recipe generator that functions by feeding it with available ingredients and establishing limits or constraints to the dish. We integrated this into a website that 'invents' new recipes by considering the user's dietary needs and choice of cuisine.
 
