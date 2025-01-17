@@ -22,7 +22,9 @@ Python | Java | SQL | Data
 
 ## **Projects**
 
-### Sales Insights using PowerBI ![PowerBI](./assets/img/powerbi.svg) | [GitHub Repo](https://github.com/aJustinOng/sales-insights-powerbi)
+### Sales Insights using PowerBI
+
+[GitHub Repo](https://github.com/aJustinOng/sales-insights-powerbi)
 
 **Skills:**
 `SQL | DAX | Data Visualization`
