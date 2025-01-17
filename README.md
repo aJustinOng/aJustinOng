@@ -18,11 +18,16 @@ I am an aspiring data scientist/analyst with entry-level professional experience
 ### Core skills:
 Python | Java | SQL | Data
 
----
+<br>
 
 ## **Projects**
 
-### Sales Insights using PowerBI
+1. [Sales Insights using PowerBI](#1-sales-insights-using-powerbi)
+2. [AI Recipe Generator](#2-kami-kitchen-assistant-and-meal-innovator---ai-recipe-generator)
+
+---
+
+### 1. Sales Insights using PowerBI
 
 [GitHub Repo](https://github.com/aJustinOng/sales-insights-powerbi)
 
@@ -34,38 +39,40 @@ Python | Java | SQL | Data
 
 **Overview:**  
 
-I used MySQL Workbench and Excel to clean and ETL a sales dataset. I then used PowerBI to analyze and visualize the revenue and profit across different regions, customers, and markets. I learned to focus on the critical areas (profit rather than revenue, etc.) that a sales manager would be interested in to answer and tackle sales problems. I used basic DAX to return specific data aggregates that could be used in visualizations. I also learned how to integrate the powerful filtering tools in PowerBI to allow my stakeholders to conveniently isolate data within specific conditions.
+I used MySQL Workbench and Excel to clean and ETL a sales dataset. I then used PowerBI to analyze and visualize the revenue and profit across different regions, customers, and markets. I learned to focus on the critical areas (profit rather than revenue, etc.) that a sales manager would be interested in to answer and tackle sales problems.
+
+I used basic DAX to return specific data aggregates that could be used in visualizations. I also learned how to integrate the powerful interactive tools in PowerBI to allow my stakeholders to conveniently isolate data within specific conditions. I also took additional feedback to drastically improve my initial dashboard.
 
 <img src="/assets/img/dashboard-1.png" width="100%"/>
 
-### KAMI (Kitchen Assistant and Meal Innovator) - AI Recipe Generator
+---
 
-This capstone project's main focus was to make an AI-based recipe generator that functions by feeding it with available ingredients and establishing limits or constraints to the dish. We integrated this into a website that 'invents' new recipes by considering the user's dietary needs and choice of cuisine.
+### 2. KAMI (Kitchen Assistant and Meal Innovator) - AI Recipe Generator
 
-The recipe's ingredients, instructions, and AI-generated image are displayed to the user. The project utilized OpenAI's GPT-4 and DALLE-3 APIs into a Django Framework that is connected to a local MySQL database.
+<a href="assets/pdfs/KAMI Report.pdf" target="_blank">Report</a> | <a href="assets/pdfs/KAMI Report.pdf" target="_blank">Presentation Slides</a>
 
-![KAMI Website](./assets/img/KAMI.PNG)
+**Skills:**
+`Long-term Project Management | Python | SQL | Data Modeling | AI Modeling | HTML | CSS | JavaScript`
 
-### LLM SPAM or HAM Classification
+**Tools:**
+`Django | XAMPP MySQL | GPT-4 | DALLE-3 | Google Docs | Google Slides`
 
-As an Honors project for my Cyber Forensics class, I decided to test the ability of different LLMs (Large Language Models) to classify spam emails in a zero-shot environment. Five models—Llama2, Mistral, Synthia, Zephyr, and CausalLM—were given the same dataset of spam and ham emails and instructed to classify them accordingly.
+**Overview:**  
 
-I installed and hosted the models on LM Studio and used the OpenAI API to connect them to a Python .ipynb notebook.
+This senior capstone project was carried out across two semesters (roughly 9 months) along with two of my buddies. We met twice a week physically to discuss our individual and collaborative progress with our senior project advisor. Other forms of communication and collaboration was done through Discord, Google Docs, and Google Slides.
 
-![Email Classification](./assets/img/EmailClassification.PNG)
+The main focus of the project was to make an AI-based recipe generator that functions by feeding it with available ingredients and establishing limits or constraints to the dish. We integrated this into a website that 'invents' new recipes by considering the user's dietary needs and choice of cuisine.
 
-### [2-3 Tree Data Structure][23Tree] 
-This was a group project for a Data Structures & Algorithms class in my Sophomore year of university. It is a basic exploration of the 2-3 Trees data structure, a complex version of binary trees. Looking back, we could have structured the code better and added a proper user interface. The output of the current code is limited to the first two levels of the created 2-3 tree.
+<img src="/assets/img/KAMI.PNG" width="100%"/>
 
-[<img align="left" alt="23TreesLight" width="1000px" src="./assets/img/23Treeslight.PNG" style="padding-right:10px;" />][profilelight]
-[<img align="left" alt="23TreesDark" width="1000px" src="./assets/img/23Treesdark.PNG" style="padding-right:10px;" />][profiledark]
+The recipe's ingredients, instructions, and AI-generated image are displayed to the user. The project utilized OpenAI's GPT-4 and DALLE-3 APIs into a Django Framework that is connected to a local database.
 
-Regular binary trees tend to get "unbalanced" after data is inserted or removed. This means that all data are pushed to one side of the binary tree instead of being equally distributed, which increases the time complexity of data retrieval and queries. 2-3 trees do not have this issue because of the way they store data. Nodes that hold data within 2-3 trees can hold up to two values, and they split and merge in a way that maintains a constant balance in the tree. Thus, 2-3 trees are a more effective form of binary trees in databases that constantly update, as the stream of inputs and outputs will not cause an imbalance in the tree.
+I fully designed the webpage using HTML, CSS, and JavaScript. I also engineered the entire database that handled the many-to-many relationships between users and their available ingredients, preferences, and generated recipes. The database was hosted on a local XAMPP MySQL database. Unfortunately, we took the demo website offline due to its costs.
 
-View my [website](https://ajustinong.github.io) for more information on my projects!
+<img src="/assets/img/KAMISQLDiagram.png" width="100%"/>
+
+View my [website](https://ajustinong.github.io) to know more about me!
 
 [profile]: https://github.com/aJustinOng
 [profilelight]: https://github.com/aJustinOng#gh-light-mode-only
 [profiledark]: https://github.com/aJustinOng#gh-dark-mode-only
-
-[23Tree]: https://github.com/aJustinOng/23Trees
