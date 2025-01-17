@@ -16,9 +16,9 @@ I am an aspiring data scientist/analyst with entry-level professional experience
 [![website](./assets/img/instagram-dark.svg)](https://instagram.com/idrawshizzle#gh-dark-mode-only)
 
 ### Core skills:
-Python | Java | SQL | Data
+Python | Java | SQL | PowerBI | Data
 
-<br>
+---
 
 ## **Projects**
 
@@ -52,10 +52,10 @@ I used basic DAX to return specific data aggregates that could be used in visual
 <a href="assets/pdfs/KAMI Report.pdf" target="_blank">Report</a> | <a href="assets/pdfs/KAMI Report.pdf" target="_blank">Presentation Slides</a>
 
 **Skills:**
-`Long-term Project Management | Python | SQL | Data Modeling | AI Modeling | HTML | CSS | JavaScript`
+`Long-term Project Management | Python | SQL | Data Modeling | AI Prompt Modeling | HTML | CSS | JavaScript`
 
 **Tools:**
-`Django | XAMPP MySQL | GPT-4 | DALLE-3 | Google Docs | Google Slides`
+`Django | XAMPP MySQL | GPT-4 | DALLE-3`
 
 **Overview:**  
 
@@ -69,7 +69,7 @@ The recipe's ingredients, instructions, and AI-generated image are displayed to 
 
 I fully designed the webpage using HTML, CSS, and JavaScript. I also engineered the entire database that handled the many-to-many relationships between users and their available ingredients, preferences, and generated recipes. The database was hosted on a local XAMPP MySQL database. Unfortunately, we took the demo website offline due to its costs.
 
-<img src="/assets/img/KAMISQLDiagram.png" width="100%"/>
+<img src="/assets/img/KAMISQLDiagram.PNG" width="100%"/>
 
 View my [website](https://ajustinong.github.io) to know more about me!
 
