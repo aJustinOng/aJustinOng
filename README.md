@@ -6,14 +6,14 @@ I am an aspiring data scientist/analyst with entry-level professional experience
 
 ### Find me on:
 
-[![website](./img/globe-light.svg)](https://ajustinong.github.io#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://ajustinong.github.io#gh-dark-mode-only)
+[![website](./assets/img/globe-light.svg)](https://ajustinong.github.io#gh-light-mode-only)
+[![website](./assets/img/globe-dark.svg)](https://ajustinong.github.io#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/a-justin-ong#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/a-justin-ong#gh-dark-mode-only)
+[![website](./assets/img/linkedin-light.svg)](https://linkedin.com/in/a-justin-ong#gh-light-mode-only)
+[![website](./assets/img/linkedin-dark.svg)](https://linkedin.com/in/a-justin-ong#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/idrawshizzle#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/idrawshizzle#gh-dark-mode-only)
+[![website](./assets/img/instagram-light.svg)](https://instagram.com/idrawshizzle#gh-light-mode-only)
+[![website](./assets/img/instagram-dark.svg)](https://instagram.com/idrawshizzle#gh-dark-mode-only)
 
 ### Core skills:
 Python | Java | SQL | Data
@@ -42,7 +42,7 @@ This capstone project's main focus was to make an AI-based recipe generator that
 
 The recipe's ingredients, instructions, and AI-generated image are displayed to the user. The project utilized OpenAI's GPT-4 and DALLE-3 APIs into a Django Framework that is connected to a local MySQL database.
 
-![KAMI Website](./img/KAMI.PNG)
+![KAMI Website](./assets/img/KAMI.PNG)
 
 ### LLM SPAM or HAM Classification
 
@@ -50,13 +50,13 @@ As an Honors project for my Cyber Forensics class, I decided to test the ability
 
 I installed and hosted the models on LM Studio and used the OpenAI API to connect them to a Python .ipynb notebook.
 
-![Email Classification](./img/EmailClassification.PNG)
+![Email Classification](./assets/img/EmailClassification.PNG)
 
 ### [2-3 Tree Data Structure][23Tree] 
 This was a group project for a Data Structures & Algorithms class in my Sophomore year of university. It is a basic exploration of the 2-3 Trees data structure, a complex version of binary trees. Looking back, we could have structured the code better and added a proper user interface. The output of the current code is limited to the first two levels of the created 2-3 tree.
 
-[<img align="left" alt="23TreesLight" width="1000px" src="./img/23Treeslight.PNG" style="padding-right:10px;" />][profilelight]
-[<img align="left" alt="23TreesDark" width="1000px" src="./img/23Treesdark.PNG" style="padding-right:10px;" />][profiledark]
+[<img align="left" alt="23TreesLight" width="1000px" src="./assets/img/23Treeslight.PNG" style="padding-right:10px;" />][profilelight]
+[<img align="left" alt="23TreesDark" width="1000px" src="./assets/img/23Treesdark.PNG" style="padding-right:10px;" />][profiledark]
 
 Regular binary trees tend to get "unbalanced" after data is inserted or removed. This means that all data are pushed to one side of the binary tree instead of being equally distributed, which increases the time complexity of data retrieval and queries. 2-3 trees do not have this issue because of the way they store data. Nodes that hold data within 2-3 trees can hold up to two values, and they split and merge in a way that maintains a constant balance in the tree. Thus, 2-3 trees are a more effective form of binary trees in databases that constantly update, as the stream of inputs and outputs will not cause an imbalance in the tree.
 
