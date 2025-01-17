@@ -20,7 +20,21 @@ Python | Java | SQL | Data
 
 ---
 
-## Projects
+## **Projects**
+
+### Sales Insights using PowerBI ![PowerBI](./assets/img/powerbi.svg) | [GitHub Repo](https://github.com/aJustinOng/sales-insights-powerbi)
+
+**Skills:**
+`SQL | DAX | Data Visualization`
+
+**Tools:**
+`MySQL Workbench | Microsoft Excel | PowerBI`
+
+**Overview:**  
+
+I used MySQL Workbench and Excel to clean and ETL a sales dataset. I then used PowerBI to analyze and visualize the revenue and profit across different regions, customers, and markets. I learned to focus on the critical areas (profit rather than revenue, etc.) that a sales manager would be interested in to answer and tackle sales problems. I used basic DAX to return specific data aggregates that could be used in visualizations. I also learned how to integrate the powerful filtering tools in PowerBI to allow my stakeholders to conveniently isolate data within specific conditions.
+
+<img src="/assets/img/dashboard-1.png" width="100%"/>
 
 ### KAMI (Kitchen Assistant and Meal Innovator) - AI Recipe Generator
 
