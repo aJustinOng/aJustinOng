@@ -74,13 +74,13 @@ This senior capstone project was carried out across two semesters (roughly 9 mon
 
 The main focus of the project was to make an AI-based recipe generator that functions by feeding it with available ingredients and establishing limits or constraints to the dish. We integrated this into a website that 'invents' new recipes by considering the user's dietary needs and choice of cuisine.
 
-<img src="/assets/img/project-kami.PNG" width="100%"/>
+<img src="/assets/img/project-kami-website.PNG" width="100%"/>
 
 The recipe's ingredients, instructions, and AI-generated image are displayed to the user. The project utilized OpenAI's GPT-4 and DALLE-3 APIs into a Django Framework that is connected to a local database.
 
 I fully designed the webpage using HTML, CSS, and JavaScript. I also engineered the entire database that handled the many-to-many relationships between users and their available ingredients, preferences, and generated recipes. The database was hosted on a local XAMPP MySQL database. Unfortunately, we took the demo website offline due to its costs.
 
-<img src="/assets/img/KAMISQLDiagram.PNG" width="100%"/>
+<img src="/assets/img/project-kami-sql-diagram.PNG" width="100%"/>
 
 View my [website](https://ajustinong.github.io) to know more about me!
 
