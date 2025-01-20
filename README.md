@@ -52,6 +52,14 @@ I used basic DAX to return specific data aggregates that could be used in visual
 
 [GitHub Repo](https://github.com/aJustinOng/real-estate-price-prediction)
 
+### Skills:
+`Python | NumPy | Pandas | Matplotlib | scikit-learn | HTML | CSS | JavaScript`
+
+### Tools:
+`Jupyter Notebook | VS Code | PyCharm | Flask | Postman`
+
+**Overview:**
+
 In this data science project, I cleaned and visualized a real estate dataset from Kaggle and used it to build a model with scikit-learn using linear regression. Next, I created a Python Flask server that can use the model to run HTTP requests, which I tested using Postman. Lastly, I made a website using HTML, CSS, and JavaScript with a user-friendly UI, where the user can enter their desired house area (square feet), number of bedrooms and bathrooms, and state to get a predicted price.
 
 The model building section covers a majority of data science concepts like data cleaning, outlier removal, feature engineering, dimensionality reduction, one hot encoding, and K-Fold cross-validation.
