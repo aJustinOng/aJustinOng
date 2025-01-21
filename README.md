@@ -50,7 +50,7 @@ I used basic DAX to return specific data aggregates that could be used in visual
 
 [GitHub Repo](https://github.com/aJustinOng/real-estate-price-prediction)
 
-**Skills:**: `Python | NumPy | Pandas | Matplotlib | scikit-learn | HTML | CSS | JavaScript`
+**Skills:** `Python | NumPy | Pandas | Matplotlib | scikit-learn | HTML | CSS | JavaScript`
 
 **Tools:** `Jupyter Notebook | VS Code | PyCharm | Flask | Postman`
 
