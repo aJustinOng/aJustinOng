@@ -33,9 +33,9 @@ Python | SQL | Data Modeling | Data Analysis
 
 [GitHub Repo](https://github.com/aJustinOng/hobbit-classifier)
 
-### Skills: `Python | NumPy | Pandas | Matplotlib | OpenCV | PyWavelets | scikit-learn | HTML | CSS | JavaScript`
+**Skills:** `Python | NumPy | Pandas | Matplotlib | OpenCV | PyWavelets | scikit-learn | HTML | CSS | JavaScript`
 
-### Tools: `Jupyter Notebook | VS Code | PyCharm | Flask`
+**Tools:** `Jupyter Notebook | VS Code | PyCharm | Flask`
 
 **Overview:**
 
