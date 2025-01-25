@@ -33,11 +33,9 @@ Python | SQL | Data Modeling | Data Analysis
 
 [GitHub Repo](https://github.com/aJustinOng/hobbit-classifier)
 
-### Skills:
-`Python | NumPy | Pandas | Matplotlib | OpenCV | PyWavelets | scikit-learn | HTML | CSS | JavaScript`
+### Skills: `Python | NumPy | Pandas | Matplotlib | OpenCV | PyWavelets | scikit-learn | HTML | CSS | JavaScript`
 
-### Tools:
-`Jupyter Notebook | VS Code | PyCharm | Flask`
+### Tools: `Jupyter Notebook | VS Code | PyCharm | Flask`
 
 **Overview:**
 
@@ -53,11 +51,9 @@ So I searched for and downloaded 50 images for each of the chosen five hobbit ac
 
 [GitHub Repo](https://github.com/aJustinOng/real-estate-price-prediction)
 
-### Skills:
-`Python | NumPy | Pandas | Matplotlib | scikit-learn | HTML | CSS | JavaScript`
+**Skills:** `Python | NumPy | Pandas | Matplotlib | scikit-learn | HTML | CSS | JavaScript`
 
-### Tools:
-`Jupyter Notebook | VS Code | PyCharm | Flask | Postman`
+**Tools:** `Jupyter Notebook | VS Code | PyCharm | Flask | Postman`
 
 **Overview:**
 
@@ -75,11 +71,9 @@ The model building section covers a majority of data science concepts like data 
 
 [GitHub Repo](https://github.com/aJustinOng/sales-insights-powerbi)
 
-**Skills:**
-`SQL | DAX | Data Visualization`
+**Skills:** `SQL | DAX | Data Visualization`
 
-**Tools:**
-`MySQL Workbench | Microsoft Excel | PowerBI`
+**Tools:** `MySQL Workbench | Microsoft Excel | PowerBI`
 
 **Overview:**  
 
@@ -93,11 +87,9 @@ I used basic DAX to return specific data aggregates that could be used in visual
 
 ### 4. KAMI (Kitchen Assistant and Meal Innovator) - AI Recipe Generator
 
-**Skills:**
-`Project Management | Python | SQL | Data Modeling | AI Prompt Modeling | HTML | CSS | JavaScript`
+**Skills:** `Project Management | Python | SQL | Data Modeling | AI Prompt Modeling | HTML | CSS | JavaScript`
 
-**Tools:**
-`Django | XAMPP MySQL | GPT-4 | DALLE-3`
+**Tools:** `Django | XAMPP MySQL | GPT-4 | DALLE-3`
 
 **Overview:**  
 
