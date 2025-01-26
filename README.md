@@ -1,4 +1,4 @@
-# Hey there, I'm Justin!
+# **Hey there, I'm Justin!**
 
 **`Data Engineering/Data Modeling/Data Analysis`**
 
@@ -33,7 +33,7 @@ Visit my [website](https://ajustinong.github.io) to know more about me!
 
 ---
 
-## **Projects**
+# **Projects**
 
 ### **Table of Contents**
 
