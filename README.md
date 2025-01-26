@@ -22,14 +22,14 @@ Python | Java | SQL | Data Modeling | Data Analysis
 
 ## **Projects**
 
-1. [Hobbit Face Classifier](#1-hobbit-face-classifier) | [GitHub Repo](https://github.com/aJustinOng/hobbit-classifier)
+1. [Hobbit Face Classifier](#1-hobbit-face-svm-classifier) | [GitHub Repo](https://github.com/aJustinOng/hobbit-classifier)
 2. [Real Estate Price Prediction](#2-real-estate-price-prediction) | [GitHub Repo](https://github.com/aJustinOng/real-estate-price-prediction)
 3. [Sales Insights using PowerBI](#3-sales-insights-using-powerbi) | [GitHub Repo](https://github.com/aJustinOng/sales-insights-powerbi)
 4. [AI Recipe Generator](#4-kami-kitchen-assistant-and-meal-innovator---ai-recipe-generator)
 
 ---
 
-### 1. Hobbit Face Classifier
+### 1. Hobbit Face SVM Classifier
 
 [GitHub Repo](https://github.com/aJustinOng/hobbit-classifier)
 
