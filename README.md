@@ -87,6 +87,8 @@ I used basic DAX to return specific data aggregates that could be used in visual
 
 ### 4. KAMI (Kitchen Assistant and Meal Innovator) - AI Recipe Generator
 
+[Project Report](https://ajustinong.github.io/assets/pdfs/KAMIReport.pdf) | [Project Poster](https://ajustinong.github.io/assets/pdfs/KAMIPoster.pdf)
+
 **Skills:** `Project Management | Python | SQL | Data Modeling | AI Prompt Modeling | HTML | CSS | JavaScript`
 
 **Tools:** `Django | XAMPP MySQL | GPT-4 | DALLE-3`
