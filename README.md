@@ -2,7 +2,9 @@
 
 **`Data Engineering/Data Modeling/Data Analysis`**
 
-I am an aspiring data scientist with entry-level professional experience in application development. I mainly work with Python, Java, and SQL in various personal and academic projects. I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
+I am an aspiring data scientist with entry-level professional experience in application development. I mainly work with Python, Java, and SQL in [my personal and academic projects](#projects). I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
+
+Visit my [website](https://ajustinong.github.io) to know more about me!
 
 ### Find me on:
 
@@ -15,19 +17,32 @@ I am an aspiring data scientist with entry-level professional experience in appl
 [![website](./assets/img/instagram-light.svg)](https://instagram.com/idrawshizzle#gh-light-mode-only)
 [![website](./assets/img/instagram-dark.svg)](https://instagram.com/idrawshizzle#gh-dark-mode-only)
 
-### Core skills:
-Python | Java | SQL | Data Modeling | Data Analysis
+## Summary of Skills
+
+**Programming Languages:** `Python | Java | SQL | C++`  
+
+**Frameworks:** `Pandas | NumPy | scikit-learn | Matplotlib`  
+
+**Front-end:** `HTML | CSS | JavaScript`  
+
+**Tools:** `MySQL | Postman | Tableau | PowerBI | Excel | PowerPoint | Word | Git | Spring Boot`  
+
+**IDEs:** `Jupyter Notebook | Visual Studio Code | PyCharm | IntelliJ IDEA`  
+
+**Soft Skills:** `Public Speaking | Technical Writing | Collaborative Communication | Project Management`
 
 ---
 
 ## **Projects**
+
+### **Table of Contents**
 
 1. [Hobbit Face Classifier](#1-hobbit-face-svm-classifier) | [GitHub Repo](https://github.com/aJustinOng/hobbit-classifier)
 2. [Real Estate Price Prediction](#2-real-estate-price-prediction) | [GitHub Repo](https://github.com/aJustinOng/real-estate-price-prediction)
 3. [Sales Insights using PowerBI](#3-sales-insights-using-powerbi) | [GitHub Repo](https://github.com/aJustinOng/sales-insights-powerbi)
 4. [AI Recipe Generator](#4-kami-kitchen-assistant-and-meal-innovator---ai-recipe-generator)
 
----
+<br>
 
 ### 1. Hobbit Face SVM Classifier
 
@@ -35,15 +50,15 @@ Python | Java | SQL | Data Modeling | Data Analysis
 
 **Skills:** `Python | NumPy | Pandas | Matplotlib | OpenCV | PyWavelets | scikit-learn | HTML | CSS | JavaScript`
 
-**Tools:** `Jupyter Notebook | VS Code | PyCharm | Flask`
+**Tools:** `Jupyter Notebook | Visual Studio Code | PyCharm | Flask`
 
 **Overview:**
 
 I was inspired to make this classification project when my friends started making plans to get together to watch the LOTR (Lord of the Rings) trilogy again. Hobbits are a race in the Tolkien franchise, and in the movies they are played by several well-known Hollywood actors such as Elijah Wood and Martin Freeman. I thought, since they are all male caucasian actors and played similar roles in the movies, can I build a model that can classify between them?
 
-So I searched for and downloaded 50 images for each of the chosen five hobbit actors (Elijah Wood, Sean Astin, Billy Boyd, Dominic Monaghan, and Martin Freeman) on Google. For the preprocessing, I used OpenCV's Haar cascade classifiers to detect faces and eyes in those images, filtering out the unideal training images. I then stored the cropped facial regions into a separate folder before using PyWavelets to extract the facial regions from them. The combined images of both the original cropped image and Wavelet transformed image were split into train and test sets, which were finally used to train a SVM (support vector machine) model. I used GridSearchCV to determine the best model and parameters. After exporting the model as a Pickle file, I loaded it in a Flask server that was connected to a HTML/CSS/JavaScript webpage. The webpage allows the user to drop in an image to classify which of the five hobbits the image resembles. It also displays the confidence of the model and can detect multiple faces in a single image.
-
 <img src="/assets/img/project-hobbit-website.png" width="100%"/>
+
+So I searched for and downloaded 50 images for each of the chosen five hobbit actors (Elijah Wood, Sean Astin, Billy Boyd, Dominic Monaghan, and Martin Freeman) on Google. For the preprocessing, I used OpenCV's Haar cascade classifiers to detect faces and eyes in those images, filtering out the unideal training images. I then stored the cropped facial regions into a separate folder before using PyWavelets to extract the facial regions from them. The combined images of both the original cropped image and Wavelet transformed image were split into train and test sets, which were finally used to train a SVM (support vector machine) model. I used GridSearchCV to determine the best model and parameters. After exporting the model as a Pickle file, I loaded it in a Flask server that was connected to a HTML/CSS/JavaScript webpage. The webpage allows the user to drop in an image to classify which of the five hobbits the image resembles. It also displays the confidence of the model and can detect multiple faces in a single image.
 
 ---
 
@@ -53,7 +68,7 @@ So I searched for and downloaded 50 images for each of the chosen five hobbit ac
 
 **Skills:** `Python | NumPy | Pandas | Matplotlib | scikit-learn | HTML | CSS | JavaScript`
 
-**Tools:** `Jupyter Notebook | VS Code | PyCharm | Flask | Postman`
+**Tools:** `Jupyter Notebook | Visual Studio Code | PyCharm | Flask | Postman`
 
 **Overview:**
 
@@ -61,9 +76,9 @@ In this regression project, I used a U.S. real estate dataset (2.2M+ entries) on
 
 I started by preprocessing the dataset and used it to build a model with scikit-learn using linear regression. The model was then exported as a Pickle file. Next, I created a Python Flask server to run the model and receive GET and POST requests, which I tested using Postman. Lastly, I made a webpage using HTML, CSS, and JavaScript with a user-friendly UI, where the user can enter their desired inputs to get a predicted price.
 
-The model building section covers a majority of data science concepts like data cleaning, outlier removal, feature engineering, dimensionality reduction, one hot encoding, and K-Fold cross-validation.
-
 <img src="/assets/img/project-real-estate-price-prediction.png" width="100%"/>
+
+The model building section covers a majority of data science concepts like data cleaning, outlier removal, feature engineering, dimensionality reduction, one hot encoding, and K-Fold cross-validation.
 
 ---
 
@@ -79,9 +94,9 @@ The model building section covers a majority of data science concepts like data 
 
 As a data analysis project, I took a sales dataset and used it to create a dashboard in PowerBI. I first used MySQL Workbench and Excel to clean and ETL a sales dataset. I then used PowerBI to analyze and visualize the revenue and profit across different regions, customers, and markets. I learned to focus on the critical areas (profit rather than revenue, etc.) that a sales manager would be interested in to answer and tackle sales problems.
 
-I used basic DAX to return specific data aggregates that could be used in visualizations. I also learned how to integrate the powerful interactive tools in PowerBI to allow my stakeholders to conveniently isolate data within specific conditions. I also took additional feedback to drastically improve my initial dashboard.
-
 <img src="/assets/img/project-sales-insights.png" width="100%"/>
+
+I used basic DAX to return specific data aggregates that could be used in visualizations. I also learned how to integrate the powerful interactive tools in PowerBI to allow my stakeholders to conveniently isolate data within specific conditions. I also took additional feedback to drastically improve my initial dashboard.
 
 ---
 
@@ -107,7 +122,7 @@ I fully designed the webpage using HTML, CSS, and JavaScript. I also engineered 
 
 <img src="/assets/img/project-kami-sql-diagram.PNG" width="100%"/>
 
-View my [website](https://ajustinong.github.io) to know more about me!
+Visit my [website](https://ajustinong.github.io) to know more about me!
 
 [profile]: https://github.com/aJustinOng
 [profilelight]: https://github.com/aJustinOng#gh-light-mode-only
