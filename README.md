@@ -16,7 +16,7 @@ I am an aspiring data scientist with entry-level professional experience in appl
 [![website](./assets/img/instagram-dark.svg)](https://instagram.com/idrawshizzle#gh-dark-mode-only)
 
 ### Core skills:
-Python | SQL | Data Modeling | Data Analysis
+Python | Java | SQL | Data Modeling | Data Analysis
 
 ---
 
