@@ -1,8 +1,8 @@
-# **Hey there, I'm Justin!**
+# **Hey there, I'm Justin! :v::shit:**
 
-### **`Data Engineering/Data Modeling/Data Analysis`**
+### **`Data Analyst`**
 
-I am an aspiring data scientist with entry-level professional experience in application development. I mainly work with Python, Java, and SQL in my personal and academic projects. I graduated from Southern Arkansas University with a major in Computer Science and a minor in Mathematics. I enjoy collaborating with people and creating ideas!
+
 
 Visit my [website](https://ajustinong.github.io) to know more about me!
 
@@ -13,23 +13,22 @@ Visit my [website](https://ajustinong.github.io) to know more about me!
 &nbsp;&nbsp;
 [![website](./assets/img/linkedin-light.svg)](https://linkedin.com/in/a-justin-ong#gh-light-mode-only)
 [![website](./assets/img/linkedin-dark.svg)](https://linkedin.com/in/a-justin-ong#gh-dark-mode-only)
-&nbsp;&nbsp;
+<!-- &nbsp;&nbsp;
 [![website](./assets/img/instagram-light.svg)](https://instagram.com/idrawshizzle#gh-light-mode-only)
 [![website](./assets/img/instagram-dark.svg)](https://instagram.com/idrawshizzle#gh-dark-mode-only)
+-->
 
 ## Summary of Skills
 
-**Programming Languages:** `Python | Java | SQL | C++`  
+**Programming Languages:** `Python | DAX | Java | SQL | C++ | HTML | CSS | JavaScript | TypeScript`  
 
-**Frameworks:** `Pandas | NumPy | scikit-learn | Keras | Matplotlib`  
+**Frameworks:** `Pandas | NumPy | scikit-learn | Keras | Matplotlib | Spring Boot`  
 
-**Front-end:** `HTML | CSS | JavaScript`  
+**Tools:** `Power BI | Power Query | Power Automate | Excel | Tableau | MySQL | Postman`  
 
-**Tools:** `MySQL | Postman | Tableau | PowerBI | Excel | PowerPoint | Word | Git | Spring Boot`  
+**IDEs:** `Jupyter Notebook | Visual Studio Code | PyCharm | IntelliJ IDEA` 
 
-**IDEs:** `Jupyter Notebook | Visual Studio Code | PyCharm | IntelliJ IDEA`  
-
-**Soft Skills:** `Public Speaking | Technical Writing | Collaborative Communication | Project Management`
+**Soft Skills:** `Project Management | Technical Writing | Collaborative Communication | Public Speaking`
 
 ---
 
@@ -37,14 +36,36 @@ Visit my [website](https://ajustinong.github.io) to know more about me!
 
 ### **Table of Contents**
 
-1. [Hobbit Face Classifier](#1-hobbit-face-svm-classifier) | [GitHub Repo](https://github.com/aJustinOng/hobbit-classifier)
-2. [Real Estate Price Prediction](#2-real-estate-price-prediction) | [GitHub Repo](https://github.com/aJustinOng/real-estate-price-prediction)
-3. [Sales Insights using PowerBI](#3-sales-insights-using-powerbi) | [GitHub Repo](https://github.com/aJustinOng/sales-insights-powerbi)
+1. [Spotify Wrapped in PowerBI](#1-spotify-wrapped-in-power-bi) | [GitHub Repo](https://github.com/aJustinOng/spotify-wrapped-power-bi)
+2. [Hobbit Face Classifier](#2-hobbit-face-cnn-classifier) | [GitHub Repo](https://github.com/aJustinOng/hobbit-classifier)
+3. [Real Estate Price Prediction](#3-real-estate-price-prediction) | [GitHub Repo](https://github.com/aJustinOng/real-estate-price-prediction)
 4. [AI Recipe Generator](#4-kami-kitchen-assistant-and-meal-innovator---ai-recipe-generator)
 
 <br>
 
-### 1. Hobbit Face CNN Classifier
+### 1. Spotify Wrapped in Power BI
+
+[GitHub Repo](https://github.com/aJustinOng/spotify-wrapped-power-bi)
+
+**Skills:** `Data Visualization | DAX | Data ETL | 3rd Party API`
+
+**Tools:** `Power BI | Power Query`
+
+**Overview:**  
+
+Spotify Wrapped is probably the most popular online interests every year, but it is inherently incomplete, as data is often cut to generate the annual summary before the end of the year. In this project, I reconstructed and customized Spotify Wrapped using Spotify’s provided personal data and public Web API, producing a extensive view of the classic report that can span multiple years.
+
+Using Power Query, tens of thousands of streaming records are ingested from raw, local JSON files and transformed into a structured semantic model. After basic cleaning, unique track and artist identifiers are grouped into controlled batches to be queried to the [Spotify Web API](https://developer.spotify.com/). Through the Web API, the model can obtain additional resources like album and artist images and genre information. To prevent exceeding rate limits, the most relavant tracks and artists are targeted and grouped for batch querying, reducing ~25000 single queries to just 33 API calls.
+
+The result is a fully reproducible, end-to-end analytics pipeline that combines raw data, API-based enrichment, and analytical modeling to recreate — and extend — Spotify Wrapped with greater accuracy, completeness, and analytical flexibility.
+
+**Note:** According to official Spotify documentation, API calls in the future will require a premium Spotify account.
+
+<img src="/assets/img/recording_spotify.gif" width="100%"/>
+
+---
+
+### 2. Hobbit Face CNN Classifier
 
 [GitHub Repo](https://github.com/aJustinOng/hobbit-classifier)
 
@@ -64,7 +85,7 @@ I was not satisfied with the model's accuracy, so I went back to the model-build
 
 ---
 
-### 2. Real Estate Price Prediction
+### 3. Real Estate Price Prediction
 
 [GitHub Repo](https://github.com/aJustinOng/real-estate-price-prediction)
 
@@ -81,24 +102,6 @@ I started by preprocessing the dataset and used it to build a model with scikit-
 <img src="/assets/img/project-real-estate-price-prediction-website.gif" width="100%"/>
 
 The model building section covers a majority of data science concepts like data cleaning, outlier removal, feature engineering, dimensionality reduction, one hot encoding, and K-Fold cross-validation.
-
----
-
-### 3. Sales Insights using PowerBI
-
-[GitHub Repo](https://github.com/aJustinOng/sales-insights-powerbi)
-
-**Skills:** `SQL | DAX | Data Visualization`
-
-**Tools:** `MySQL Workbench | Microsoft Excel | PowerBI`
-
-**Overview:**  
-
-As a data analysis project, I took a sales dataset and used it to create a dashboard in PowerBI. I first used MySQL Workbench and Excel to clean and ETL a sales dataset. I then used PowerBI to analyze and visualize the revenue and profit across different regions, customers, and markets. I learned to focus on the critical areas (profit rather than revenue, etc.) that a sales manager would be interested in to answer and tackle sales problems.
-
-<img src="/assets/img/project-sales-insights.png" width="100%"/>
-
-I used basic DAX to return specific data aggregates that could be used in visualizations. I also learned how to integrate the powerful interactive tools in PowerBI to allow my stakeholders to conveniently isolate data within specific conditions. I also took additional feedback to drastically improve my initial dashboard.
 
 ---
 
