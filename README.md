@@ -24,11 +24,11 @@ Visit my [website](https://ajustinong.github.io) to know more about me!
 
 **Frameworks:** `Pandas | NumPy | scikit-learn | Keras | Matplotlib | Spring Boot`  
 
-**Tools:** `Power BI | Power Query | Power Automate | Excel | Tableau | MySQL | Postman`  
+**Tools:** `Power BI | Power Query | Power Automate | Excel | Visio | Tableau | MySQL | Postman`  
 
-**IDEs:** `Jupyter Notebook | Visual Studio Code | PyCharm | IntelliJ IDEA` 
+**IDEs:** `Jupyter Notebook | Visual Studio Code | PyCharm | IntelliJ IDEA | Code::Blocks`
 
-**Soft Skills:** `Project Management | Technical Writing | Collaborative Communication | Public Speaking`
+**Soft Skills:** `Project Management | Technical Writing | Collaboratiion | Transformation & Automation`
 
 ---
 
@@ -47,25 +47,29 @@ Visit my [website](https://ajustinong.github.io) to know more about me!
 
 [GitHub Repo](https://github.com/aJustinOng/spotify-wrapped-power-bi)
 
-**Skills:** `Data Visualization | DAX | Data ETL | 3rd Party API`
+**Skills:** `Data ETL | Data Visualization | DAX | 3rd Party Web API`
 
 **Tools:** `Power BI | Power Query`
 
 **Overview:**  
 
-Spotify Wrapped is probably the most popular online interests every year, but it is inherently incomplete, as data is often cut to generate the annual summary before the end of the year. In this project, I reconstructed and customized Spotify Wrapped using Spotify’s provided personal data and public Web API, producing a extensive view of the classic report that can span multiple years.
+Spotify Wrapped is a popular online phenomenon that pops up every year, but it is inherently incomplete, as data is often cut by mid November to generate the summary before the year ends. In this project, I reconstructed and customized Spotify Wrapped using Spotify’s provided personal data and public Web API, producing a extensive view of the classic report that can span multiple years.
+
+<img src="/assets/img/project-spotify-wrapped-power-bi-dashboard.gif" width="100%"/>
 
 Using Power Query, tens of thousands of streaming records are ingested from raw, local JSON files and transformed into a structured semantic model. After basic cleaning, unique track and artist identifiers are grouped into controlled batches to be queried to the [Spotify Web API](https://developer.spotify.com/). Through the Web API, the model can obtain additional resources like album and artist images and genre information. To prevent exceeding rate limits, the most relavant tracks and artists are targeted and grouped for batch querying, reducing ~25000 single queries to just 33 API calls.
 
+<img src="/assets/img/project-spotify-wrapped-power-bi-power-query.png" width="100%"/>
+
 The result is a fully reproducible, end-to-end analytics pipeline that combines raw data, API-based enrichment, and analytical modeling to recreate — and extend — Spotify Wrapped with greater accuracy, completeness, and analytical flexibility.
 
-**Note:** According to official Spotify documentation, API calls in the future will require a premium Spotify account.
-
-<img src="/assets/img/recording_spotify.gif" width="100%"/>
+**Note:** According to [official Spotify documentation](https://developer.spotify.com/documentation/web-api), API calls in the future will require a premium Spotify account.
 
 ---
 
 ### 2. Hobbit Face CNN Classifier
+
+> If most of us valued food and cheer and song above hoarded gold it would be a merrier world. — J.R.R. Tolkien
 
 [GitHub Repo](https://github.com/aJustinOng/hobbit-classifier)
 
@@ -75,13 +79,15 @@ The result is a fully reproducible, end-to-end analytics pipeline that combines 
 
 **Overview:**
 
-I was inspired to make this classification project when my friends started making plans to get together to watch the LOTR (Lord of the Rings) trilogy again. Hobbits are a race in the Tolkien franchise, and in the movies they are played by several well-known Hollywood actors such as Elijah Wood and Martin Freeman. I thought, since they are all male caucasian actors and played similar roles in the movies, can I build a model that can classify between them?
+This project explores whether a machine learning model can distinguish between actors who portrayed Hobbits in The Lord of the Rings. Because the actors share similar visual traits, the task serves as a fine-grained face classification challenge.
 
-So I searched for and downloaded 50 images for each of the chosen five hobbit actors (Elijah Wood, Sean Astin, Billy Boyd, Dominic Monaghan, and Martin Freeman) on Google. For the preprocessing, I used OpenCV's Haar cascade classifiers to detect faces and eyes in those images, filtering out the unideal training images. I then stored the cropped facial regions into a separate folder before using PyWavelets to extract the facial regions from them. The combined images of both the original cropped image and Wavelet transformed image were split into train and test sets, which were finally used to train a SVM (support vector machine) model. I used GridSearchCV to determine the best model and parameters. After exporting the model as a Pickle file, I loaded it in a Flask server that was connected to a HTML/CSS/JavaScript webpage. The webpage allows the user to drop in an image to classify which of the five hobbits the image resembles. It also displays the confidence of the model and can detect multiple faces in a single image.
+I scraped images online of Elijah Wood, Sean Astin, Billy Boyd, Dominic Monaghan, and Martin Freeman that were ingested into a Jupyter Notebook setup. Faces were detected and cropped using OpenCV Haar cascades, and low-quality images were filtered out. The initial model used a traditional pipeline with wavelet feature extraction and an SVM classifier, tuned using GridSearchCV. The trained model was deployed via a Flask backend and a simple web interface that supports image uploads, multiple face detection, and confidence-based predictions.
 
 <img src="/assets/img/project-hobbit-website.gif" width="100%"/>
 
-I was not satisfied with the model's accuracy, so I went back to the model-building process. Since SVM is considered outdated in modern image classification, I replaced it with a CNN (Convolutional Neural Network) approach. It skips the wavelet transforming process, since CNN can work directly with raw image pixels. It achieved an accuracy of 84.1% after 20-30 training epochs, a hefty 20% improvement from the SVM model.
+To improve performance, the SVM was replaced with a Convolutional Neural Network trained directly on raw face images. After 20–30 epochs, the CNN achieved a ~20% improvement in accuracy over the original approach.
+
+The final system demonstrates the effectiveness of CNNs for distinguishing visually similar faces in a real-world classification setting.
 
 ---
 
@@ -119,7 +125,7 @@ This senior capstone project was carried out across two semesters (roughly 9 mon
 
 The main focus of the project was to make an AI-based recipe generator that functions by feeding it with available ingredients and establishing limits or constraints to the dish. We integrated this into a website that 'invents' new recipes by considering the user's dietary needs and choice of cuisine.
 
-<img src="/assets/img/project-kami-website.PNG" width="80%"/>
+<img src="/assets/img/project-kami-website.PNG" width="100%"/>
 
 The recipe's ingredients, instructions, and AI-generated image are displayed to the user. The project utilized OpenAI's GPT-4 and DALLE-3 APIs into a Django Framework that is connected to a local database.
 
